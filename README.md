@@ -72,6 +72,10 @@ Here's an example of the application running locally:
 ![Job Application Agent Example](screenshots/example1.png)
 ![Job Application Agent Example](screenshots/example2.png)
 ![Job Application Agent Example](screenshots/example3.png)
+![Job Application Agent Example](screenshots/example4.png)
+![Job Application Agent Example](screenshots/example5.png)
+![Job Application Agent Example](screenshots/example6.png)
+
 
 The screenshot shows the generated cover letter, tailored resume bullets, interview preparation, and negotiation recommendations.
 
