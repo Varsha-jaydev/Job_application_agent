@@ -69,7 +69,9 @@ The application uses Ollama locally, so the job description and candidate profil
 
 Here's an example of the application running locally:
 
-![Job Application Agent Example](screenshots/example.png)
+![Job Application Agent Example](screenshots/example1.png)
+![Job Application Agent Example](screenshots/example2.png)
+![Job Application Agent Example](screenshots/example3.png)
 
 The screenshot shows the generated cover letter, tailored resume bullets, interview preparation, and negotiation recommendations.
 
