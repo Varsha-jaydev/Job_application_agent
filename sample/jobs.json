@@ -1,0 +1,17 @@
+[
+    {
+        "company": "Stripe",
+        "role": "Senior Python Engineer",
+        "job_description": "We're looking for a Senior Python Engineer to join our API Platform team. Requirements: 5+ years Python development, experience with distributed systems, REST APIs, microservices, PostgreSQL, Redis, and Kubernetes."
+    },
+    {
+        "company": "Google",
+        "role": "Backend Software Engineer",
+        "job_description": "We are looking for a Backend Software Engineer to design scalable distributed systems and APIs. Strong Python experience and knowledge of cloud infrastructure are preferred."
+    },
+    {
+        "company": "Microsoft",
+        "role": "Senior Software Engineer",
+        "job_description": "Join our engineering team building large-scale cloud services. The ideal candidate has experience with Python, distributed systems, APIs, Kubernetes, and cloud infrastructure."
+    }
+]

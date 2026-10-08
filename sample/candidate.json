@@ -1,0 +1,22 @@
+{
+    "name": "Jane Doe",
+    "experience": "7 years Python experience",
+    "current_role": "Senior Software Engineer at DataCorp",
+    "skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+    ],
+    "achievements": [
+        "Built API platform handling 5M requests/day",
+        "Led team of 4 engineers",
+        "Reduced API latency by 40%",
+        "Mentored 3 junior engineers"
+    ],
+    "education": "BS Computer Science, UC Berkeley"
+}
